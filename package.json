@@ -1,0 +1,12 @@
+{
+  "name": "bip39-tests",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Steven Bower <steven@purse.io>",
+  "dependencies": {
+    "bcoin": "1.0.0-beta",
+	"bitcore-lib": "0.13.x",
+	"bitcore-mnemonic": "1.1.x"
+  },
+  "license": "MIT"
+}
